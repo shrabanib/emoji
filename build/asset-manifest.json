@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/emoji/static/js/main.30827037.chunk.js",
+    "main.js.map": "/emoji/static/js/main.30827037.chunk.js.map",
+    "runtime-main.js": "/emoji/static/js/runtime-main.8f95762c.js",
+    "runtime-main.js.map": "/emoji/static/js/runtime-main.8f95762c.js.map",
+    "static/js/2.114b6fed.chunk.js": "/emoji/static/js/2.114b6fed.chunk.js",
+    "static/js/2.114b6fed.chunk.js.map": "/emoji/static/js/2.114b6fed.chunk.js.map",
+    "index.html": "/emoji/index.html",
+    "precache-manifest.e52748fab4a99ea8769d2e33befa827c.js": "/emoji/precache-manifest.e52748fab4a99ea8769d2e33befa827c.js",
+    "service-worker.js": "/emoji/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f95762c.js",
+    "static/js/2.114b6fed.chunk.js",
+    "static/js/main.30827037.chunk.js"
+  ]
+}
